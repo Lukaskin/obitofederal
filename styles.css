@@ -1,5 +1,7 @@
-/* Estilo básico para el contenedor del mapa */
-#map {
-  height: 400px;
+/* Estilos opcionales para el iframe */
+iframe {
   width: 100%;
+  max-width: 100%;
+  height: auto;
+  border: none; /* Para eliminar el borde del iframe */
 }
