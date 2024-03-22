@@ -1,0 +1,5 @@
+/* Estilo básico para el contenedor del mapa */
+#map {
+  height: 400px;
+  width: 100%;
+}
