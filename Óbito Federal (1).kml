@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Óbito Federal</name>
+    <description/>
+    <Style id="icon-1556-000000-normal">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1556-000000-highlight">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1556-000000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1556-000000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1556-000000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1556-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1556-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1556-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1556-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1556-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1556-F9A825-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1556-F9A825-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1556-F9A825">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1556-F9A825-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1556-F9A825-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1588-097138-nodesc-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1588-097138-nodesc-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1588-097138-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1588-097138-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1588-097138-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1625-FBC02D-normal">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1625-FBC02D-highlight">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1625-FBC02D">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1625-FBC02D-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1625-FBC02D-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-000000-1200-77-normal">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d000000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-000000-1200-77-highlight">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d000000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-000000-1200-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-000000-1200-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-000000-1200-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Incidencias Capital federal</name>
+      <Placemark>
+        <name>Arenales 2839 - Baranda cae de 9 pisos y mata a mujer de 74 años</name>
+        <description><![CDATA[<img src="https://doc-14-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/afugminlc4tqlhtg5nb11n2bh8/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgoaiVF-7fcXboWbMcxjR8rViy4TgMOPl44M-HjVWq_ShDSaVe0yiX1mYLC26g7S0VtKqTCVlh0sI6OdZdh9peFoi2HoTSMYkZx6Pk2kDXVHEqeF1k8VLcr5Y-6Cpxn0twDZx57WlW0wC4XiEjHqHNy24tcrqBfnz35cSj0pVdhOgsq3kbAEdv0DX8QRSopmM1huknB_YSmlBO71_2dsgxWVIg6Qtq8hMM4yYqn-SmhrVbo?session=0&fife" height="200" width="auto" /><br><br>1 mujer<br>20/03/2024<br>https://www.infobae.com/sociedad/policiales/2024/03/20/en-medio-del-temporal-una-mujer-murio-despues-de-ser-golpeada-por-una-baranda-que-cayo-de-un-noveno-piso/]]></description>
+        <styleUrl>#icon-1556-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/afugminlc4tqlhtg5nb11n2bh8/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgoaiVF-7fcXboWbMcxjR8rViy4TgMOPl44M-HjVWq_ShDSaVe0yiX1mYLC26g7S0VtKqTCVlh0sI6OdZdh9peFoi2HoTSMYkZx6Pk2kDXVHEqeF1k8VLcr5Y-6Cpxn0twDZx57WlW0wC4XiEjHqHNy24tcrqBfnz35cSj0pVdhOgsq3kbAEdv0DX8QRSopmM1huknB_YSmlBO71_2dsgxWVIg6Qtq8hMM4yYqn-SmhrVbo?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -58.4053463,-34.5913648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beruti 3017 - Asesinato de un tiro en Peluquería</name>
+        <description><![CDATA[<img src="https://doc-0c-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/24rsrkb5dgmcigj3md0j706c68/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgqqSDUpWy5frPynq1Y-d_CmZKfera7SnZC9roYlWTGWNd7fFiBV0KCLHonf45Tl_m1kI8p7X99bYedd2EIfbLkb9zbyVtipVCxVo7J_aMzugZxWdik0j8htc6HSS1JFE5UjJHumR-wX3M7dmmNLsrblQ3MEZRuyFdvrf-Z6y_kO4U5EtfBqPLjIBWRmdWNdgiAke0jm2GmNJZ2vzn9Y7VXAihchfjxJJszxmQgp6N9kFxQ?session=0&fife" height="200" width="auto" /><br><br>1 hombre<br>21/03/2024<br>https://www.infobae.com/sociedad/policiales/2024/03/21/mataron-de-un-tiro-en-la-cabeza-a-un-empleado-de-una-peluqueria-de-recoleta-tras-una-discusion/]]></description>
+        <styleUrl>#icon-1556-000000</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0c-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/24rsrkb5dgmcigj3md0j706c68/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgqqSDUpWy5frPynq1Y-d_CmZKfera7SnZC9roYlWTGWNd7fFiBV0KCLHonf45Tl_m1kI8p7X99bYedd2EIfbLkb9zbyVtipVCxVo7J_aMzugZxWdik0j8htc6HSS1JFE5UjJHumR-wX3M7dmmNLsrblQ3MEZRuyFdvrf-Z6y_kO4U5EtfBqPLjIBWRmdWNdgiAke0jm2GmNJZ2vzn9Y7VXAihchfjxJJszxmQgp6N9kFxQ?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -58.4063241,-34.5893399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name>Torres Le Parc - Encuentran muerto al fiscal Alberto Nisman</name>
+        <description><![CDATA[<img src="https://doc-14-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/6u6isbev2ferim2u2jvjs0sq4k/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgqXBO_69alGHa2D2ts9FaVdQDOP9xEabj5Quwzq0Qd0pCz-XbRhC3EO0ySHCyAnArsJsklpBXZy3II9wyaVDzIB656bzllgWS_bxYQUvNcYSbS-oYGeWkzZTQXlSjaxoX5bMo1WZV0n0jRZj2-nmtn9z9nvJ8qSZl_A59vO5WI1UNk0RnJE9xFNZcPQSxg7u1GTghJVTeomNJ0CMvZcToBkgM9D9UzSr9VgtkHEG6Zs0uM?session=0&fife" height="200" width="auto" /><br><br>1 persona<br><br>https://elpais.com/internacional/2015/01/19/actualidad/1421650071_491119.html]]></description>
+        <styleUrl>#icon-1556-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/6u6isbev2ferim2u2jvjs0sq4k/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgqXBO_69alGHa2D2ts9FaVdQDOP9xEabj5Quwzq0Qd0pCz-XbRhC3EO0ySHCyAnArsJsklpBXZy3II9wyaVDzIB656bzllgWS_bxYQUvNcYSbS-oYGeWkzZTQXlSjaxoX5bMo1WZV0n0jRZj2-nmtn9z9nvJ8qSZl_A59vO5WI1UNk0RnJE9xFNZcPQSxg7u1GTghJVTeomNJ0CMvZcToBkgM9D9UzSr9VgtkHEG6Zs0uM?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -58.360972,-34.611306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Archivo - Avenida Rivadavia & Morelos - La caida de un perro causa la muerte de 3 personas]]></name>
+        <description><![CDATA[<img src="https://doc-0g-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/p6k92g901s4io1r5p2an8crdus/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgqeHuOYmAQ65bd3EMwQu--Qoh2vdQgCEjB-jEP0yB6Ms9EnEfVB0d527Q-LdBHpMK6zQBDpqcvYi7mvrBXASF4Vfj5-0PmrRJgwV5Lm7yUhlTr7U_-Lo3IN2N_WTHDv4mZRLEJpM2QxlzreVR3KDhH3TC0sGlTDTu6tAzp0HQTE-ul_DQS1xSikH5vCxEM1VPAE5KTcq6mXwUFDMx6ehT_amzDWPZ1sF4uiLWwTbNQj7dY?session=0&fife" height="200" width="auto" /><br><br>1 perro<br>3 personas<br><br>https://www.infobae.com/sociedad/2023/10/21/la-historia-de-una-tragica-casualidad-el-caniche-que-cayo-de-un-piso-13-en-caballito-y-provoco-tres-muertes/]]></description>
+        <styleUrl>#icon-1625-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/p6k92g901s4io1r5p2an8crdus/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgqeHuOYmAQ65bd3EMwQu--Qoh2vdQgCEjB-jEP0yB6Ms9EnEfVB0d527Q-LdBHpMK6zQBDpqcvYi7mvrBXASF4Vfj5-0PmrRJgwV5Lm7yUhlTr7U_-Lo3IN2N_WTHDv4mZRLEJpM2QxlzreVR3KDhH3TC0sGlTDTu6tAzp0HQTE-ul_DQS1xSikH5vCxEM1VPAE5KTcq6mXwUFDMx6ehT_amzDWPZ1sF4uiLWwTbNQj7dY?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -58.4530063,-34.6252352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Archivo - Arroyo 910/912 - Atentado a la Ex Embajada de Israel.</name>
+        <description><![CDATA[<img src="https://doc-0s-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/ccvlik89f13nq98mcv41i36jsc/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgpwfHss1fnaVGcv_Td_POICzOhnTKDraYyo8VU3pOwwpk89fGJ8du6bJvFNhl6KCN_JToLR0PnGwA7uQW8Ly83IR1Klu_AvkornRyezcZeow62SZwcHTyU0U7DmM4ivOPxoaapcL5MZmWQBv7kVNfpSct_96bPJKFlXscsiB2Nb0YtjtUhZPMnUmCXavZHyrl-W1vcX5fQ7ge46cCpKYJCCHoOpWL2xHy1lrdUfK28XF3A?session=0&fife" height="200" width="auto" /><br><br>22 personas<br><br>https://es.wikipedia.org/wiki/Atentado_a_la_embajada_de_Israel_en_Argentina]]></description>
+        <styleUrl>#icon-1625-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/ccvlik89f13nq98mcv41i36jsc/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgpwfHss1fnaVGcv_Td_POICzOhnTKDraYyo8VU3pOwwpk89fGJ8du6bJvFNhl6KCN_JToLR0PnGwA7uQW8Ly83IR1Klu_AvkornRyezcZeow62SZwcHTyU0U7DmM4ivOPxoaapcL5MZmWQBv7kVNfpSct_96bPJKFlXscsiB2Nb0YtjtUhZPMnUmCXavZHyrl-W1vcX5fQ7ge46cCpKYJCCHoOpWL2xHy1lrdUfK28XF3A?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -58.3803583,-34.5915508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Archivo - Pasteur 633 - Atentado a la AMIA</name>
+        <description><![CDATA[<img src="https://doc-0k-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/i259k2mf8r6g6mjudc5nlgms1k/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgqA5njh9ZQA7vfeUAC1p6szOyhIAKU4nwmrXZX60p_Qk_0_NYJHi9b3iZxOnvBNCUSHiZcyf581QCCF6g3HfAoJYKwvk8bWVLQLewEl5YC_7vYF_36sNUy_-ChkiRM1hvOx1O9eGwRdEhv_Iea0lNf7vlffDtOdaUJkmfDnC6ZM1k765Cs6PPF-JzR49B3zWxvR5BYQxi--0mfrWTFzb4ImlUhmutu1n7iDC6-7SAh45Fw?session=0&fife" height="200" width="auto" /><br><br>85 personas<br><br>https://es.wikipedia.org/wiki/Atentado_a_la_AMIA]]></description>
+        <styleUrl>#icon-1625-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/i259k2mf8r6g6mjudc5nlgms1k/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgqA5njh9ZQA7vfeUAC1p6szOyhIAKU4nwmrXZX60p_Qk_0_NYJHi9b3iZxOnvBNCUSHiZcyf581QCCF6g3HfAoJYKwvk8bWVLQLewEl5YC_7vYF_36sNUy_-ChkiRM1hvOx1O9eGwRdEhv_Iea0lNf7vlffDtOdaUJkmfDnC6ZM1k765Cs6PPF-JzR49B3zWxvR5BYQxi--0mfrWTFzb4ImlUhmutu1n7iDC6-7SAh45Fw?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -58.3994587,-34.6017896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Archivo - Puerta 12 - Tragedia de la puerta 12</name>
+        <description><![CDATA[<img src="https://doc-08-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/ohjhavudtb1fvju76s534lbj4c/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgr3FNkaJdy3yFtM2t7rTq_nxxN8cn-MrEGpa_KPoqTI72hUR81uN7HpNO6nOMFmKqBLJRlYPuUj3jXaCeVOK6ZHnaUO4rlv1zkIUy7Hl4OWvjKmo0hv6S0sF3guG5RGC7Ssw90KHdtGu8R587ao6KARLVTc7sOPsQ9uMskhWqyS5dTSVYyaRIvyvMBEzqJQL9KPnkQOWh0ELrzHT9Vrz9rG74g3mnL5KYRRI6tcHk9rozc?session=0&fife" height="200" width="auto" /><br><br>71 personas<br><br>https://es.wikipedia.org/wiki/Tragedia_de_la_puerta_12]]></description>
+        <styleUrl>#icon-1625-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/ohjhavudtb1fvju76s534lbj4c/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgr3FNkaJdy3yFtM2t7rTq_nxxN8cn-MrEGpa_KPoqTI72hUR81uN7HpNO6nOMFmKqBLJRlYPuUj3jXaCeVOK6ZHnaUO4rlv1zkIUy7Hl4OWvjKmo0hv6S0sF3guG5RGC7Ssw90KHdtGu8R587ao6KARLVTc7sOPsQ9uMskhWqyS5dTSVYyaRIvyvMBEzqJQL9KPnkQOWh0ELrzHT9Vrz9rG74g3mnL5KYRRI6tcHk9rozc?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -58.4500185,-34.5462784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Platea Sivorí - Hombre cae al vació desde platea</name>
+        <description><![CDATA[<img src="https://doc-0g-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/8jud6kud3mkjbafj4jskjm9lk8/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgqElzBCxuJuYH4FVQvvOeyEoK4tNBPuk1AxrF-Ao6XwTdglJ5iwgr_8ShO5ThKR5QiAWJieevOMfoiTVhbJxpE3AwEKb9cNx6__N7BCc946iQjuiRaIyg-FzMPQBiIw2zJmIHq84rV9Xz5QrBXDAbP9RJLnO7wzFG9bIGjdb-qrRElgFWXUy-95j767boZ_2mXlomBHpAKW_j1HZ5iQVCRBhAXYxuj7Omf2lg10zmoHPwE?session=0&fife" height="200" width="auto" /><br><br>1 persona<br>03/06/2023<br><br>https://www.ole.com.ar/ecuador/internacional/tragedia-argentina-hincha-river-plate-fallecio-accidente_0_NF3JrC6sVB.html]]></description>
+        <styleUrl>#icon-1556-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/8jud6kud3mkjbafj4jskjm9lk8/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgqElzBCxuJuYH4FVQvvOeyEoK4tNBPuk1AxrF-Ao6XwTdglJ5iwgr_8ShO5ThKR5QiAWJieevOMfoiTVhbJxpE3AwEKb9cNx6__N7BCc946iQjuiRaIyg-FzMPQBiIw2zJmIHq84rV9Xz5QrBXDAbP9RJLnO7wzFG9bIGjdb-qrRElgFWXUy-95j767boZ_2mXlomBHpAKW_j1HZ5iQVCRBhAXYxuj7Omf2lg10zmoHPwE?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -58.4496258,-34.5443035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Platea L - Hombre muere de paro cardíaco en festejo de Boca</name>
+        <description><![CDATA[<img src="https://doc-0k-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/2n3alsfeqep052rqu0h5j7p5sk/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgpyC00jg_EZ2_vdQUXbJU2eW2OG7_wQSikg0PxEPniURrplYIVBF3ZcsgL3cSHV2COCSgm3ly5Vy2xLwSbw2lL6froWQpw9ZP-vXkbkpFLN4eU25gpnLAgih4ZH52p6C_TQvMWHqb6Pr19HXqRlJGjseV2yuwlHCBgC6OwR8D-RribWLZ80KCHD3cdV0YBivPElN7l0eoLZtR8S06QYoDQ4q3pru4fjUnHudAeS0jdW-iI?session=0&fife" height="200" width="auto" /><br><br>1 persona<br>05/06/2022<br>https://www.ole.com.ar/boca-juniors/boca-hincha-fallecido-fiesta-suspendida_0_F9QHIWf0Nv.html]]></description>
+        <styleUrl>#icon-1556-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/2n3alsfeqep052rqu0h5j7p5sk/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgpyC00jg_EZ2_vdQUXbJU2eW2OG7_wQSikg0PxEPniURrplYIVBF3ZcsgL3cSHV2COCSgm3ly5Vy2xLwSbw2lL6froWQpw9ZP-vXkbkpFLN4eU25gpnLAgih4ZH52p6C_TQvMWHqb6Pr19HXqRlJGjseV2yuwlHCBgC6OwR8D-RribWLZ80KCHD3cdV0YBivPElN7l0eoLZtR8S06QYoDQ4q3pru4fjUnHudAeS0jdW-iI?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -58.3649678,-34.635086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Archivo - Bartolomé Mitre 3060 - Tragedia de Cromañon</name>
+        <description><![CDATA[<img src="https://doc-04-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/tr8tohhk27jon2qb7ap0klr0hc/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgrqy2gYkEykcoJecCa0zHMVTnLn4XP7UWEPgq_zF1sxvHi_9eYtJURAaJgvTEziFSUI7Ioq0RDwElqfqAhW0utcT6zugf0iyfIthPd__ce6BAD0u8_PeerIVIvM47baakrpsy56Yurs6MM1inuC_NbH3M_shPD6WpQKxL9OaGzpb68ZrZcQsU6p8OtMtBOZlWuZ1M0ls433ru3cjvuDJmaAOhS0RBUtPj36aCBeUoos3bk?session=0&fife" height="200" width="auto" /><br><br>194 personas<br>30/12/2004<br><br>https://www.ambito.com/informacion-general/cromanon-se-cumplen-19-anos-la-peor-tragedia-la-historia-la-musica-argentina-n5910817]]></description>
+        <styleUrl>#icon-1625-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-04-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/tr8tohhk27jon2qb7ap0klr0hc/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgrqy2gYkEykcoJecCa0zHMVTnLn4XP7UWEPgq_zF1sxvHi_9eYtJURAaJgvTEziFSUI7Ioq0RDwElqfqAhW0utcT6zugf0iyfIthPd__ce6BAD0u8_PeerIVIvM47baakrpsy56Yurs6MM1inuC_NbH3M_shPD6WpQKxL9OaGzpb68ZrZcQsU6p8OtMtBOZlWuZ1M0ls433ru3cjvuDJmaAOhS0RBUtPj36aCBeUoos3bk?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -58.4096999,-34.6093562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Archivo - Av. Tte. Gral. Donato Álvarez 1060 - Encuentran muerta a Jimena Hernández</name>
+        <description><![CDATA[<img src="https://doc-0c-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/rvf9kd2076jghigasc8gki0nvo/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgq7uIhT6-oHWp664T9q9DisQwc1XLqmiUZVmaVUdV3RY4nS2PF6pFGyZzgjy-41HMe_anIv7Wf43qSSVw9klh8Mxb9mgDw3wbqMavpVF62zbrl_OgASccr5CSj0kJQRp7PdigZjlvzXpJM6PT5JRENoGaE_nvfNGgseBrHpOMKb7isZfhdHPWHiAHzSvHx2olgLTyqHAb4ONtwLGDokrtm184M0dl_MlKgCfpXXFAJz5aU?session=0&fife" height="200" width="auto" /><br><br>1 persona<br><br>https://www.infobae.com/sociedad/2018/12/31/morir-en-el-colegio-pistas-sospechas-y-misterio-a-30-anos-del-crimen-de-jimena-hernandez/]]></description>
+        <styleUrl>#icon-1625-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0c-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/rvf9kd2076jghigasc8gki0nvo/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgq7uIhT6-oHWp664T9q9DisQwc1XLqmiUZVmaVUdV3RY4nS2PF6pFGyZzgjy-41HMe_anIv7Wf43qSSVw9klh8Mxb9mgDw3wbqMavpVF62zbrl_OgASccr5CSj0kJQRp7PdigZjlvzXpJM6PT5JRENoGaE_nvfNGgseBrHpOMKb7isZfhdHPWHiAHzSvHx2olgLTyqHAb4ONtwLGDokrtm184M0dl_MlKgCfpXXFAJz5aU?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -58.4593751,-34.6143068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Archivo - El Salvador 4753 - Encuentran muerto al periodista Juan Castro</name>
+        <description><![CDATA[<img src="https://doc-0o-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/st3i5teqrb1af00v6qd344i520/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgp-IUnx0NWZtQO6pDMjIl4ZzYszZmZN-WFfwNwarnJghzsHWezJPmIVQ-iw92qKe3eBj4QVAm1UGhkVh8rNQrK1Pn_hKceA1b7wamaapJvg0lOIEEVmFPW7LrCN9jrI0I-yIfYpcWmSDEmjv2X0e5dpLHDIGU9YJyGV20yoOcLiMMyK2Gnyi7F0Lzy4LQ_Ioo7yX5YsopWQQ3wcS7xcTuKRIG2Lc5YFeonbb3nNX-jYF1s?session=0&fife" height="200" width="auto" /><br><br>1 persona<br><br>https://es.wikipedia.org/wiki/Juan_Castro_(periodista)]]></description>
+        <styleUrl>#icon-1625-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/st3i5teqrb1af00v6qd344i520/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgp-IUnx0NWZtQO6pDMjIl4ZzYszZmZN-WFfwNwarnJghzsHWezJPmIVQ-iw92qKe3eBj4QVAm1UGhkVh8rNQrK1Pn_hKceA1b7wamaapJvg0lOIEEVmFPW7LrCN9jrI0I-yIfYpcWmSDEmjv2X0e5dpLHDIGU9YJyGV20yoOcLiMMyK2Gnyi7F0Lzy4LQ_Ioo7yX5YsopWQQ3wcS7xcTuKRIG2Lc5YFeonbb3nNX-jYF1s?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -58.427613,-34.5888736,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Archivo - Parque Colombia / Ex Quinta de los Guerrero - Asesinato de Felicitas Guerrero</name>
+        <description><![CDATA[<img src="https://doc-0k-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/uq5cliot6p2mp4ioeevhq2i8po/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgrazsIZRGVoQv1bpKOKL6STyJVL1xnjsQTbMZC1zHZ1hb1p1Nbm7i52435LnAAZwSxqRmPUWtDdGXsDDCjJ-LBDxn-KN86BP2a4Fd2Gbgn-VMt5tJWKi7Twk3cYOUH-kvxfQ9q69CEcCdFR58ESWQkk1btGJBRjJVeyZZiVYXvEr5q20e8eTBFpcRTB40CzX2uy_v5L4ZhcEj5XcZkPQB0MRSQQqNVl2sipJ1ib5KkDOEw?session=0&fife" height="200" width="auto" /><br><br>2 ´personas<br><br>https://es.wikipedia.org/wiki/Felicitas_Guerrero]]></description>
+        <styleUrl>#icon-1625-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/uq5cliot6p2mp4ioeevhq2i8po/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgrazsIZRGVoQv1bpKOKL6STyJVL1xnjsQTbMZC1zHZ1hb1p1Nbm7i52435LnAAZwSxqRmPUWtDdGXsDDCjJ-LBDxn-KN86BP2a4Fd2Gbgn-VMt5tJWKi7Twk3cYOUH-kvxfQ9q69CEcCdFR58ESWQkk1btGJBRjJVeyZZiVYXvEr5q20e8eTBFpcRTB40CzX2uy_v5L4ZhcEj5XcZkPQB0MRSQQqNVl2sipJ1ib5KkDOEw?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -58.3741956,-34.6374611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. de los Inmigrantes 2250 - Muere turista Frances luego de ser asaltado</name>
+        <description><![CDATA[<img src="https://doc-00-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/2addmjdo6b9h4ahou7dt6hgaio/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgrur_s-CmTJYuUtYhVOtFZOETlay86DA-u720m-kMQOsWtAE0ncrTqCU06apyuyqIxWl5MzlpfKXMoF149yiZufEovklMGVhlwiPb90A3GK5iaLFwh2h_cbajPwGlz0pA-eZ7wS7RGOd9oel84B5iusgKAG-EW4nJOVz0Q2LIlLKS0zQ7YVuHhR32Z4TwsdumbJow-Pu9n0gV5zZkVD5hfsjvM65Ej3MmXvLwKzZGAIWls?session=0&fife" height="200" width="auto" /><br><br>1 persona<br>02/11/2023<br>https://www.infobae.com/sociedad/policiales/2023/11/02/un-ciudadano-frances-murio-en-una-comisaria-portena-a-la-que-habia-ido-a-pedir-ayuda-tras-ser-asaltado/]]></description>
+        <styleUrl>#icon-1556-000000</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-00-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/2addmjdo6b9h4ahou7dt6hgaio/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgrur_s-CmTJYuUtYhVOtFZOETlay86DA-u720m-kMQOsWtAE0ncrTqCU06apyuyqIxWl5MzlpfKXMoF149yiZufEovklMGVhlwiPb90A3GK5iaLFwh2h_cbajPwGlz0pA-eZ7wS7RGOd9oel84B5iusgKAG-EW4nJOVz0Q2LIlLKS0zQ7YVuHhR32Z4TwsdumbJow-Pu9n0gV5zZkVD5hfsjvM65Ej3MmXvLwKzZGAIWls?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -58.3695759,-34.5845449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Archivo - Plaza San Martín - Matan a turista en intento de Robo</name>
+        <description><![CDATA[<img src="https://doc-0s-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/pp4e9mf5nggmpv0i9fsjuoo6m8/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgoWigOOusVtvEDiclmZWKXbHvWggesp4_DuGux7mFzDpbZC74ICwcl5A1OiBh_tJcVZsoYmibhL-5kSnTG20xrtHPGR2zOXcv5uRNd2-je4ouUpbLxbaApcK9puJ4JVJPIBDd3gMixbUnvAtNIKILdn8BcgJuWg2ks6DacI8wpmYdRv2vsrVVDlELlyeocpuHjjEU0uu75is8Rtu2KFwyQqAtYsR50hMt5iwOqJQVYZzuA?session=0&fife" height="200" width="auto" /><br><br>1 persona<br>https://www.lacapital.com.ar/policiales/matan-un-turista-un-intento-robo-n375789.html]]></description>
+        <styleUrl>#icon-1625-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/pp4e9mf5nggmpv0i9fsjuoo6m8/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgoWigOOusVtvEDiclmZWKXbHvWggesp4_DuGux7mFzDpbZC74ICwcl5A1OiBh_tJcVZsoYmibhL-5kSnTG20xrtHPGR2zOXcv5uRNd2-je4ouUpbLxbaApcK9puJ4JVJPIBDd3gMixbUnvAtNIKILdn8BcgJuWg2ks6DacI8wpmYdRv2vsrVVDlELlyeocpuHjjEU0uu75is8Rtu2KFwyQqAtYsR50hMt5iwOqJQVYZzuA?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -58.374679,-34.593319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Archivo - Estación Once - Tragedia de Once</name>
+        <description><![CDATA[<img src="https://doc-0c-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/egjpc6qi2icomkofv51lvtug6o/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgrCRiP4Jojoc5LYaFYQxQFevreFe4XoVaqqw30t7ZQJ4nPthBOGCHf0K2xoutLWuOycq4UhNBlK-FtDqaKcumtBiRe4B1EhMXOKSO7ARQOgggib4qh41dsDGtH-vMEDaypQoPXFYubOsir8ptuGPgVsHqxsy8xRhDOGKDqeL9spfptd1WtYhWOySly2wGJ-8_0U5oOAn-D6Vc4e9eqDAG6WKhpfJ0qHMiY-07qLg2sHsoI?session=0&fife" height="200" width="auto" /><br><br>51 personas<br>https://es.wikipedia.org/wiki/Accidente_ferroviario_de_Once]]></description>
+        <styleUrl>#icon-1625-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0c-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/egjpc6qi2icomkofv51lvtug6o/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgrCRiP4Jojoc5LYaFYQxQFevreFe4XoVaqqw30t7ZQJ4nPthBOGCHf0K2xoutLWuOycq4UhNBlK-FtDqaKcumtBiRe4B1EhMXOKSO7ARQOgggib4qh41dsDGtH-vMEDaypQoPXFYubOsir8ptuGPgVsHqxsy8xRhDOGKDqeL9spfptd1WtYhWOySly2wGJ-8_0U5oOAn-D6Vc4e9eqDAG6WKhpfJ0qHMiY-07qLg2sHsoI?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -58.4096455,-34.608519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Juncal 1957 - Se incendió un departamento y murió una persona</name>
+        <description><![CDATA[<img src="https://doc-10-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/a0oatrjqv6lev5llq1lqo2hfmk/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgoV1EhjnB4cNB_WKH47AdQt4KAcHQ0da2ukbZ0OZIVIZ_DN7JgjyhYeriAN0B7SxC2BQSrOzxSgrATSTgktHL28mOsmRTYGnk6z_6QM-ixJ2J8jv6MyioFbAtm9tsaLBl5qlnKJ6YG-Gj9H0FL7PLPGuKzKEKLp1-n4IoqInnWWdRcUpr5IB8ZlUejVh1kBRMplS2cyYhCMntCwEpxbvJFPIgrxMiHChAMxn-nGtuJhijA?session=0&fife" height="200" width="auto" /><br><br>1 persona<br><br>https://www.lanacion.com.ar/sociedad/recoleta-se-incendio-un-departamento-y-murio-una-persona-nid22032024/]]></description>
+        <styleUrl>#icon-1556-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-10-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/a0oatrjqv6lev5llq1lqo2hfmk/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgoV1EhjnB4cNB_WKH47AdQt4KAcHQ0da2ukbZ0OZIVIZ_DN7JgjyhYeriAN0B7SxC2BQSrOzxSgrATSTgktHL28mOsmRTYGnk6z_6QM-ixJ2J8jv6MyioFbAtm9tsaLBl5qlnKJ6YG-Gj9H0FL7PLPGuKzKEKLp1-n4IoqInnWWdRcUpr5IB8ZlUejVh1kBRMplS2cyYhCMntCwEpxbvJFPIgrxMiHChAMxn-nGtuJhijA?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -58.3950168,-34.593434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dr. Juan Felipe Aranguren 1600 - Hijo descuartiza a su padre</name>
+        <description><![CDATA[<img src="https://doc-0s-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/s9rllifa9hqligkuhg95pvoer0/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgo6yy9J2XNrSaGllwnmvuS2TI5Eo5VzP-yVxLeXRrcfgI1-Cu5S7f54II1-wP6PDz2qW1Bag-MrWcwZ2z3NekdATgRbZG77Kk-CGSPBTOGIBbHim-j-OednGKC01s1lwE9QqFidZFOCAueEGws2FWU9y00HBdPfq05tTn2EqLt54DHBB5dKFNcnLHlpV89UKu9kNfguwb5DLGwjQoPkzu9hoMzBPB-P4XlhUz0rAGlga2g?session=0&fife" height="200" width="auto" /><br><br>1 persona<br>20/03/2024<br>https://tn.com.ar/policiales/2024/03/21/la-macabra-maniobra-que-intento-tras-el-crimen-el-joven-que-descuartizo-a-su-padre-en-un-edificio-de-caballito/]]></description>
+        <styleUrl>#icon-1556-000000</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/s9rllifa9hqligkuhg95pvoer0/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgo6yy9J2XNrSaGllwnmvuS2TI5Eo5VzP-yVxLeXRrcfgI1-Cu5S7f54II1-wP6PDz2qW1Bag-MrWcwZ2z3NekdATgRbZG77Kk-CGSPBTOGIBbHim-j-OednGKC01s1lwE9QqFidZFOCAueEGws2FWU9y00HBdPfq05tTn2EqLt54DHBB5dKFNcnLHlpV89UKu9kNfguwb5DLGwjQoPkzu9hoMzBPB-P4XlhUz0rAGlga2g?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -58.454598,-34.6194078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av Figueroa Alcorta - Automovilista atropella a grupo de ciclistas y mata a mujer</name>
+        <description><![CDATA[<img src="https://doc-0s-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/8hg8jubd628iiiolpqof8mlvpg/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgrnbe_VnfY8zbKB2kxfWUifD8l6UdFV_gKCmktWxRWQIjoBuHHVQKETItvsL5LdWkDN3GcDmP5qwFKb9OGemlnx6SRjLyglRL97vpsseAXmXEtx-ybVvzXQM2sOjSpWdKDXqI1N4GrHzUbBjjjfkQHefIQkdQ9O-2AnHVnp3zv6D1hFZSaRfKoqX3Dfikzt_bYOoggfWse_zIt75Xybe70NjgY9KipkBxMgyP2lc-LDndY?session=0&fife" height="200" width="auto" /><br><br>1 persona<br>02/01/2022<br><br>https://www.infobae.com/sociedad/policiales/2024/03/22/condenaron-a-seis-anos-de-carcel-al-hombre-que-atropello-y-mato-a-una-ciclista-en-palermo/]]></description>
+        <styleUrl>#icon-1556-000000</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/8hg8jubd628iiiolpqof8mlvpg/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgrnbe_VnfY8zbKB2kxfWUifD8l6UdFV_gKCmktWxRWQIjoBuHHVQKETItvsL5LdWkDN3GcDmP5qwFKb9OGemlnx6SRjLyglRL97vpsseAXmXEtx-ybVvzXQM2sOjSpWdKDXqI1N4GrHzUbBjjjfkQHefIQkdQ9O-2AnHVnp3zv6D1hFZSaRfKoqX3Dfikzt_bYOoggfWse_zIt75Xybe70NjgY9KipkBxMgyP2lc-LDndY?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -58.417085,-34.5678382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Uriarte 1700 - Derrumbe en construccion mata a 2 obreros</name>
+        <description><![CDATA[<img src="https://doc-04-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/sn978nbocmkjtspa2cgareghlg/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgrN-vQrckYuOEJFCA0dSU8CEQXosZXi1eAGHh5l0iePlPZUThtSS_iH3CmRh1A0iMcag3LfHcwUeVQZotHQ9g8LxbP6ENQ_qCzlTF5Cn-rKv6fvd6mOBG7q7_3IZ_Gw-qotu62BJ5HyuH6gANbbtPMpQzb53ln2wwO9O3SlJODRHupynzhOnQQy_gwm4Pqebgr4HX6CqGNiTS8I1tfOAaIXnJMZDxUmk4wDY4FxA2Tz7xQ?session=0&fife" height="200" width="auto" /><br><br>2 personas<br>01/03/2024<br>https://www.cronista.com/informacion-gral/derrumbe-en-palermo-dos-obreros-murieron-tras-colapso-de-una-obra-en-construccion/]]></description>
+        <styleUrl>#icon-1556-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-04-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/sn978nbocmkjtspa2cgareghlg/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgrN-vQrckYuOEJFCA0dSU8CEQXosZXi1eAGHh5l0iePlPZUThtSS_iH3CmRh1A0iMcag3LfHcwUeVQZotHQ9g8LxbP6ENQ_qCzlTF5Cn-rKv6fvd6mOBG7q7_3IZ_Gw-qotu62BJ5HyuH6gANbbtPMpQzb53ln2wwO9O3SlJODRHupynzhOnQQy_gwm4Pqebgr4HX6CqGNiTS8I1tfOAaIXnJMZDxUmk4wDY4FxA2Tz7xQ?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -58.4312414,-34.5867561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de Mayo y otros puntos - Masacre del 19 y 20 de Diciembre del 2001</name>
+        <description><![CDATA[<img src="https://doc-0k-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/855sik4m2itujq3dgsp3ct59ns/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgoMZwvAgTubjvNW60wpLuh--Ac5rvmmeGE279iKftFC2u5haCKcbUcIw-QbapR3d1Yxu4-l9FIC8QMR5A5ipjY_VNSQZxRXjwhkZ3Ew_vdkM7QAOx914Vfg7YGXvRVexRrgjrRT3MdQK2hAjkzKUZP6YXYFwI3bVguJ2ILRWYFz4w23RBPcvZGlN1lOqxPicC61iFv5fSJfFvACdl9WFdrvD_lxJ104296t1kHTO4RUSok?session=0&fife" height="200" width="auto" /><br><br>39 personas<br><br>https://www.argentina.gob.ar/noticias/20-anos-de-la-masacre-del-19-y-20-de-diciembre-de-2001]]></description>
+        <styleUrl>#icon-1625-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/855sik4m2itujq3dgsp3ct59ns/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgoMZwvAgTubjvNW60wpLuh--Ac5rvmmeGE279iKftFC2u5haCKcbUcIw-QbapR3d1Yxu4-l9FIC8QMR5A5ipjY_VNSQZxRXjwhkZ3Ew_vdkM7QAOx914Vfg7YGXvRVexRrgjrRT3MdQK2hAjkzKUZP6YXYFwI3bVguJ2ILRWYFz4w23RBPcvZGlN1lOqxPicC61iFv5fSJfFvACdl9WFdrvD_lxJ104296t1kHTO4RUSok?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -58.3721792,-34.6083975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ayacucho 500 - Hallan asesinado a un jubilado en su casa</name>
+        <description><![CDATA[<img src="https://doc-0c-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/pn68cgakb0n2f2j912qfot4oag/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgrKrATKwohHVs6XUUAkl2HyNslLf4MpEm4UmCquHCcp6LpSooXJwU6JMKV5Yh5FT-wLPbaD4b4IpCcrR6Lf2_Fd_cviUYyruPLOCnUCU61zXkU8WcEgUvENHmj1DlyMA7kSpz3wh7SjSmWjpiWI9cVM3nN_B-WrvLUMSDtbr6UdOVdi1180VMbKgI3-12S9YJEmfT7rMfBAFNev2t0_6UQqhlayzBOn2xXrXuR5TVnccXg?session=0&fife" height="200" width="auto" /><br><br>1 persona<br>25/03/2024<br>https://www.clarin.com/policiales/hallan-asesinado-jubilado-departamento-balvanera-tapado-sabana-toalla-cabeza_0_BiRwBwA49J.html]]></description>
+        <styleUrl>#icon-1556-000000</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0c-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/pn68cgakb0n2f2j912qfot4oag/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgrKrATKwohHVs6XUUAkl2HyNslLf4MpEm4UmCquHCcp6LpSooXJwU6JMKV5Yh5FT-wLPbaD4b4IpCcrR6Lf2_Fd_cviUYyruPLOCnUCU61zXkU8WcEgUvENHmj1DlyMA7kSpz3wh7SjSmWjpiWI9cVM3nN_B-WrvLUMSDtbr6UdOVdi1180VMbKgI3-12S9YJEmfT7rMfBAFNev2t0_6UQqhlayzBOn2xXrXuR5TVnccXg?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -58.3955686,-34.603185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dr. Emilio Ravignani 2360 - Asesinato de Ángeles Rawson</name>
+        <description><![CDATA[<img src="https://doc-0g-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/fqg80257moji2l78eoohfpavhk/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgqRFkoORd1dds_7SVYSTgbVSJeiZ-U_1dlD0t1taBP3BJr6IwRLgmNxP29wd1r5cVTF0jB7pQmk4kjHcLTYq06Sy00I9Tla4EnD6zrsPrMkSePfvQO4x6Xary2G7JS1cNu3ClIWIpwbtJaOWcIoSamJgjbtXpukcScZYGuted0UAZ5zflE8-NhhJbmQFLoLJtCU24aX7Fj_Nc9LfE6S-LXMX212xbYzicmCt4mxphdxly0?session=0&fife" height="200" width="auto" /><br><br>1 persona<br><br>https://www.a24.com/policiales/angeles-rawson-cronica-del-femicidio-mas-mediatizado-la-historia-argentina-n1022839]]></description>
+        <styleUrl>#icon-1625-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/fqg80257moji2l78eoohfpavhk/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgqRFkoORd1dds_7SVYSTgbVSJeiZ-U_1dlD0t1taBP3BJr6IwRLgmNxP29wd1r5cVTF0jB7pQmk4kjHcLTYq06Sy00I9Tla4EnD6zrsPrMkSePfvQO4x6Xary2G7JS1cNu3ClIWIpwbtJaOWcIoSamJgjbtXpukcScZYGuted0UAZ5zflE8-NhhJbmQFLoLJtCU24aX7Fj_Nc9LfE6S-LXMX212xbYzicmCt4mxphdxly0?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -58.4335514,-34.5765106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Acceso Punta Carrasco - Punto final del vuelo 3142 de LAPA que deja a 65 personas fallecidas por negligencia</name>
+        <description><![CDATA[<img src="https://doc-0o-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/r558974vj55b7b5pm9asj6mqnc/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgpZB2CUsA-Z2oaxvtn7nB8qdRfsT-sQ2BdHLEUmHsIRVcVZDFtZXMoiVE_yY-XnVhlKN_i5r-YiCoCJGBRk8ui-zgNFbojo-j_SbGCZRI4qHIzPgOTLt3VIxnVFZdiwtXv2fWvxh6KLquqJBzV2eLKo8utV9CqwzLqIrGzyhi-68U8yOlznDUOfxgSob2WhYAD8h-jOfyKDAziwU78FgxkrOX-rGYz2cy8tu3UTExDu6sM?session=0&fife" height="200" width="auto" /><br><br>65 personas<br><br>https://elauditor.info/actualidad/el-accidente-de-lapa-en-la-costanera-norte--negligencia-y-falta-de-control_a64ef9845bff3bf1853ee2c94]]></description>
+        <styleUrl>#icon-1625-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/r558974vj55b7b5pm9asj6mqnc/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgpZB2CUsA-Z2oaxvtn7nB8qdRfsT-sQ2BdHLEUmHsIRVcVZDFtZXMoiVE_yY-XnVhlKN_i5r-YiCoCJGBRk8ui-zgNFbojo-j_SbGCZRI4qHIzPgOTLt3VIxnVFZdiwtXv2fWvxh6KLquqJBzV2eLKo8utV9CqwzLqIrGzyhi-68U8yOlznDUOfxgSob2WhYAD8h-jOfyKDAziwU78FgxkrOX-rGYz2cy8tu3UTExDu6sM?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -58.4003591,-34.56541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>México 1177 - Casa de Yiya Murano - Jubilada envenena a 3 personas </name>
+        <description><![CDATA[<img src="https://doc-00-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/6vv29pceinahn4tbccc9drrn98/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgq7OLx7a5WvRrbT2a4sNj_5l98UKTeRGrW2DWezSgM5YJbSKRloNeyqRqlnUQqtMSFkXAunBq5PWZLx7WEHmiW_WwMaZMGax59klS6xXyor0Q6EdEtzveakcJC9Hy9bAZy-MqNDomchfLBjAjq8y0FiGwBG6iuSMJ1qC70NWswChB5KWhBEZLZkY_SP9pg817E7Ig4PT38o1MZ81S5LBY0UXVLXNhKAMRHEMohD8nAcbPQ?session=0&fife" height="200" width="auto" /><br><br>3 personas<br><br>https://es.wikipedia.org/wiki/Yiya_Murano]]></description>
+        <styleUrl>#icon-1625-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-00-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/6vv29pceinahn4tbccc9drrn98/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgq7OLx7a5WvRrbT2a4sNj_5l98UKTeRGrW2DWezSgM5YJbSKRloNeyqRqlnUQqtMSFkXAunBq5PWZLx7WEHmiW_WwMaZMGax59klS6xXyor0Q6EdEtzveakcJC9Hy9bAZy-MqNDomchfLBjAjq8y0FiGwBG6iuSMJ1qC70NWswChB5KWhBEZLZkY_SP9pg817E7Ig4PT38o1MZ81S5LBY0UXVLXNhKAMRHEMohD8nAcbPQ?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -58.3827322,-34.6153018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Gral. Urquiza 1970 - Detención del "Petizo Orejudo" asesino de 4 personas]]></name>
+        <description><![CDATA[<img src="https://doc-0g-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/p0n0k29602mjf7anqiivisg2lk/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgomjSvlfGn6tonHNCVuz2myTsv9lyc7a-0KLXJ8q1kxbYNohpyKoDPkR3hkYaKPaZBVz19c0tE21bzLaZ_n_uLK4JJXxuAFqhDZRD6p8Hqii8kBUZ3pMALGozZhiBFsMEaVx1AB_6TMt7TAzS7jATXtDeq145l7zehhJR7LZ0wIhSp0DqfwkR_S1pgeAjJ7j0nq3mihsl1c7Wrc4718yZ5G-TfBdI17ExgdQ9ggU-zNATM?session=0&fife" height="200" width="auto" /><br><br>4 personas<br><br>https://www.clarin.com/policiales/petiso-orejudo_0_r16-mGTivme.html]]></description>
+        <styleUrl>#icon-1625-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/p0n0k29602mjf7anqiivisg2lk/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgomjSvlfGn6tonHNCVuz2myTsv9lyc7a-0KLXJ8q1kxbYNohpyKoDPkR3hkYaKPaZBVz19c0tE21bzLaZ_n_uLK4JJXxuAFqhDZRD6p8Hqii8kBUZ3pMALGozZhiBFsMEaVx1AB_6TMt7TAzS7jATXtDeq145l7zehhJR7LZ0wIhSp0DqfwkR_S1pgeAjJ7j0nq3mihsl1c7Wrc4718yZ5G-TfBdI17ExgdQ9ggU-zNATM?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -58.4078048,-34.6338095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza del Congreso - Asesinato de Héctor Olivares y Miguel Marcelo Yadón</name>
+        <description><![CDATA[<img src="https://doc-0g-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/8svigt7b26q1j3a8lrrtlr8i44/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgqYZozs1KE8V2JynQgLjKC2FIX3M8ZyDifZERDYZKEmMt0v4FWT--FNTP3vsTqdoTbeLNbFZKpAg4-v6C-cDA9L0QzuMLhFTTXaZeOCTIn4nAywIcZha4Q3UygczPR1nG0ihbMqNlAJRXZ0q6-VvaeEiNenHr790Pd7W_ADxI03RQMjRV8AygrF5dgp6OrqI-mLUJHODsQ7fnUsX7YvpWfJIw7Q4_EkHPuVwbFDLy2cxMQ?session=0&fife" height="200" width="auto" /><br><br>2 personas<br><br>https://www.infobae.com/sociedad/policiales/2019/05/09/balearon-al-diputado-nacional-hector-olivares-en-la-esquina-del-congreso-y-mataron-a-un-hombre-que-lo-acompanaba/]]></description>
+        <styleUrl>#icon-1556-000000</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/8svigt7b26q1j3a8lrrtlr8i44/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgqYZozs1KE8V2JynQgLjKC2FIX3M8ZyDifZERDYZKEmMt0v4FWT--FNTP3vsTqdoTbeLNbFZKpAg4-v6C-cDA9L0QzuMLhFTTXaZeOCTIn4nAywIcZha4Q3UygczPR1nG0ihbMqNlAJRXZ0q6-VvaeEiNenHr790Pd7W_ADxI03RQMjRV8AygrF5dgp6OrqI-mLUJHODsQ7fnUsX7YvpWfJIw7Q4_EkHPuVwbFDLy2cxMQ?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -58.3878065,-34.6094129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Av. Brasil 500 - Custodio mata a jubilado robando comida en un Coto</name>
+        <description><![CDATA[<img src="https://doc-04-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/gh47k4eu8sfn5ipvth8m9gfc1o/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgrBQfGHaEdCFO0DPwk1oMPXBwDWkFPfp5m9J-KeCZ4l1WgaJBXSO5kSVlQpY83g-pDiMHw0TqFzz-mhcnU-YHVZ0tjEXu1BLGhFVtfCvHAqoVykL8qD-okldC6BRsudv7oX-Pr7KqHfy-U0Gp1jzMHLtNTmNM-UEoRWieu2t7fbw3vrWAYFnIu-eB9CRxmmGg10JVDSCx8tjD9hEePjmoKVHkVr1YWsC3Ynx9RLSFFhTog?session=0&fife" height="200" width="auto" /><br><br>1 persona<br><br>https://www.infobae.com/sociedad/policiales/2019/08/21/lo-encontraron-robando-dos-chocolates-y-un-queso-en-un-supermercado-y-los-empleados-de-seguridad-lo-mataron-a-golpes/]]></description>
+        <styleUrl>#icon-1556-000000</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-04-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/gh47k4eu8sfn5ipvth8m9gfc1o/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgrBQfGHaEdCFO0DPwk1oMPXBwDWkFPfp5m9J-KeCZ4l1WgaJBXSO5kSVlQpY83g-pDiMHw0TqFzz-mhcnU-YHVZ0tjEXu1BLGhFVtfCvHAqoVykL8qD-okldC6BRsudv7oX-Pr7KqHfy-U0Gp1jzMHLtNTmNM-UEoRWieu2t7fbw3vrWAYFnIu-eB9CRxmmGg10JVDSCx8tjD9hEePjmoKVHkVr1YWsC3Ynx9RLSFFhTog?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -58.3727342,-34.6255774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dique 4 Puerto Madero - Hombre se arroja desde grua antigua</name>
+        <description><![CDATA[1 persona<br>07/03/2019<br><br>https://www.infobae.com/sociedad/policiales/2019/03/07/la-historia-del-hombre-que-se-suicido-en-una-grua-de-puerto-madero-y-cuya-muerte-se-viralizo-por-whatsapp/]]></description>
+        <styleUrl>#icon-1556-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -58.3668618,-34.600741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Juana Manso & Victoria Ocampo - Mujer cae al vacio desde 2do piso]]></name>
+        <description><![CDATA[<img src="https://doc-0c-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/qh490betnk4ropf3e9siihblek/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgowqDpYDnfIzGeYEX6unPqqqdMeBXyqhuxAvBx9MWS2bHKyRCGdHF46WjllaUsKeHr0Cw89wO_60GBcVBhG5xuHkhmgHwOuNsHCT0PJB_Hep1T6CyEJRdCJj-5ciCXst7HkHqIvvWv1d0jjOkQnp7PXvr_-0Q7z46UrlrZVaN1Za1bLzFB-8W5yedIoL5RlI92LJmV4qpDFp40raJvDbE8Ti5_2CVmPXuRVp43foAceEuc?session=0&fife" height="200" width="auto" /><br><br>1 persona<br>21/07/2019<br><br>https://www.lacapital.com.ar/informacion-general/murio-una-modelo-que-se-cayo-puerto-madero-n2515710.html]]></description>
+        <styleUrl>#icon-1556-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0c-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/qh490betnk4ropf3e9siihblek/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgowqDpYDnfIzGeYEX6unPqqqdMeBXyqhuxAvBx9MWS2bHKyRCGdHF46WjllaUsKeHr0Cw89wO_60GBcVBhG5xuHkhmgHwOuNsHCT0PJB_Hep1T6CyEJRdCJj-5ciCXst7HkHqIvvWv1d0jjOkQnp7PXvr_-0Q7z46UrlrZVaN1Za1bLzFB-8W5yedIoL5RlI92LJmV4qpDFp40raJvDbE8Ti5_2CVmPXuRVp43foAceEuc?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -58.3636937,-34.6019285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Cementerios</name>
+      <Placemark>
+        <name>Cementerio de Recoleta</name>
+        <description><![CDATA[<img src="https://doc-0k-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/u6s64m8kr3f9tnofujm0hcd5jk/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgrl5aMUSylzEmp4un1gJCkzK92dna4FyF-FYiDKwus1rpUbJc23WASJgOESUhNSvs9-49lFuABEf0yFNZNeaBzwTqY-BzjuV2WkxKyQ_abkJMWPOHQKlpfJHuPdI5Uj0Z4WhSidk5hPSlFb3E9qj5sFQ5edP0-BLJZUTQMiNtKvotM85q6N7YmwimCZaWULdxmn5IMxBuDCX2duvnq4TZFv2oQJfQ_amP0Xqx_7SDEo_LA?session=0&fife" height="200" width="auto" /><br><br>https://turismo.buenosaires.gob.ar/es/otros-establecimientos/cementerio-de-la-recoleta]]></description>
+        <styleUrl>#poly-000000-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-b0-mymaps.googleusercontent.com/untrusted/hostedimage/m/gkgabtv14v0c8o1f6btpk9a8jc/u6s64m8kr3f9tnofujm0hcd5jk/1711470991750/xFDTodPFxhBSX4NMTPMVL8pSi0nD0NyF/17829594430379226451/5AHUGKgrl5aMUSylzEmp4un1gJCkzK92dna4FyF-FYiDKwus1rpUbJc23WASJgOESUhNSvs9-49lFuABEf0yFNZNeaBzwTqY-BzjuV2WkxKyQ_abkJMWPOHQKlpfJHuPdI5Uj0Z4WhSidk5hPSlFb3E9qj5sFQ5edP0-BLJZUTQMiNtKvotM85q6N7YmwimCZaWULdxmn5IMxBuDCX2duvnq4TZFv2oQJfQ_amP0Xqx_7SDEo_LA?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -58.3918556,-34.5870365,0
+                -58.3926495,-34.5868333,0
+                -58.3925744,-34.5865993,0
+                -58.3937546,-34.5861444,0
+                -58.3951762,-34.5878358,0
+                -58.3930143,-34.5892049,0
+                -58.3925047,-34.5886308,0
+                -58.3918556,-34.5870365,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Cementario de la Chacarita</name>
+        <description>https://turismo.buenosaires.gob.ar/es/otros-establecimientos/cementerio-de-la-chacarita</description>
+        <styleUrl>#poly-000000-1200-77</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -58.4598688,-34.5856219,0
+                -58.4619932,-34.5862932,0
+                -58.466392,-34.5906741,0
+                -58.464332,-34.5924229,0
+                -58.465362,-34.5964149,0
+                -58.4592895,-34.5966268,0
+                -58.452466,-34.5901795,0
+                -58.4552769,-34.5880774,0
+                -58.45547,-34.5873884,0
+                -58.4598688,-34.5856219,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Centros clandestinos de detencion y tortura</name>
+      <Placemark>
+        <name>COMISARIA 1ª DE CAPITAL FEDERAL,LAVALLE 451 CAPITAL FEDERAL</name>
+        <address>COMISARIA 1ª DE CAPITAL FEDERAL,LAVALLE 451 CAPITAL FEDERAL</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>COMISARIA 1ª DE CAPITAL FEDERAL,Av. ING. HUERGO 640 CAPITAL FEDERAL</name>
+        <address>COMISARIA 1ª DE CAPITAL FEDERAL,Av. ING. HUERGO 640 CAPITAL FEDERAL</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>COMISARIA 22ª DE CAPITAL FEDERAL, PERU 1050 CAPITAL FEDERAL</name>
+        <address>COMISARIA 22ª DE CAPITAL FEDERAL, PERU 1050 CAPITAL FEDERAL</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>COMISARIA 2ª DE CAPITAL FEDERAL,TUCUMAN 1560 CAPITAL FEDERAL</name>
+        <address>COMISARIA 2ª DE CAPITAL FEDERAL,TUCUMAN 1560 CAPITAL FEDERAL</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>COMISARIA 3ª DE CAPITAL FEDERAL,TACUARI 770 CAPITAL FEDERAL</name>
+        <address>COMISARIA 3ª DE CAPITAL FEDERAL,TACUARI 770 CAPITAL FEDERAL</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>COMISARIA 4ª DE CAPITAL FEDERAL,LAVALLE 1958 CAPITAL FEDERAL</name>
+        <address>COMISARIA 4ª DE CAPITAL FEDERAL,LAVALLE 1958 CAPITAL FEDERAL</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>COMISARIA 5ª DE CAPITAL FEDERAL, VENEZUELA 1931 CAPITAL FEDERAL</name>
+        <address>COMISARIA 5ª DE CAPITAL FEDERAL, VENEZUELA 1931 CAPITAL FEDERAL</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>COMISARIA 6ª DE CAPITAL FEDERAL, GRAL. URQUIZA 550 CAPITAL FEDERAL</name>
+        <address>COMISARIA 6ª DE CAPITAL FEDERAL, GRAL. URQUIZA 550 CAPITAL FEDERAL</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>COMISARIA 8ª DE CAPITAL FEDERAL,MORENO 1550</name>
+        <address>COMISARIA 8ª DE CAPITAL FEDERAL,MORENO 1550</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>DEPARTAMENTO CENTRAL DE LA POLICIA FEDERAL ARGENTINA UNIDAD DE COMANDO AREA I, AZOPARDO 650 CAPITAL FEDERAL</name>
+        <address>DEPARTAMENTO CENTRAL DE LA POLICIA FEDERAL ARGENTINA UNIDAD DE COMANDO AREA I, AZOPARDO 650 CAPITAL FEDERAL</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>GARAJE AZOPARDO, RIOBAMBA 707 CAPITAL FEDERAL</name>
+        <address>GARAJE AZOPARDO, RIOBAMBA 707 CAPITAL FEDERAL</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>SERVICIO DE INTELIGENCIA DE LA FUERZA AEREA (SIFA), MORENO 1417</name>
+        <address>SERVICIO DE INTELIGENCIA DE LA FUERZA AEREA (SIFA), MORENO 1417</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>SUPERINTENDENCIA DE SEGURIDAD FEDERAL (COORDINACION FEDERAL),VIRREY CEVALLOS 628/636 CAPITAL FEDERAL</name>
+        <address>SUPERINTENDENCIA DE SEGURIDAD FEDERAL (COORDINACION FEDERAL),VIRREY CEVALLOS 628/636 CAPITAL FEDERAL</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>VIRREY CEVALLOS (SERVICIO DE INTELIGENCIA AERONAUTICA),Dársena Norte</name>
+        <address>VIRREY CEVALLOS (SERVICIO DE INTELIGENCIA AERONAUTICA),Dársena Norte</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[BUQUE-CARCEL "GRANADERO"/ UNIDAD PENAL 8 (1972-1973),Av. SANTA FE 4815 / Av. INT. BULLRICH 481 CAPITAL FEDERAL]]></name>
+        <address><![CDATA[BUQUE-CARCEL "GRANADERO"/ UNIDAD PENAL 8 (1972-1973),Av. SANTA FE 4815 / Av. INT. BULLRICH 481 CAPITAL FEDERAL]]></address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[COMANDO DE CUERPO DE EJERCITO I / REGIMIENTO DE INFANTERIA 1 "PATRICIOS" UNIDAD DE COMANDO ZONA 1 / UNIDAD DE COMANDO AREA II,Av. DIAZ VELEZ 5152 CAPITAL FEDERAL]]></name>
+        <address><![CDATA[COMANDO DE CUERPO DE EJERCITO I / REGIMIENTO DE INFANTERIA 1 "PATRICIOS" UNIDAD DE COMANDO ZONA 1 / UNIDAD DE COMANDO AREA II,Av. DIAZ VELEZ 5152 CAPITAL FEDERAL]]></address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>COMISARIA 11ª DE CAPITAL FEDERAL,Av. LAS HERAS 1861 CAPITAL FEDERAL</name>
+        <address>COMISARIA 11ª DE CAPITAL FEDERAL,Av. LAS HERAS 1861 CAPITAL FEDERAL</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>COMISARIA 17ª DE CAPITAL FEDERAL,CHARCAS 2844 CAPITAL FEDERAL</name>
+        <address>COMISARIA 17ª DE CAPITAL FEDERAL,CHARCAS 2844 CAPITAL FEDERAL</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>COMISARIA 19ª DE CAPITAL FEDERAL,JULIAN ALVAREZ 2373 CAPITAL FEDERAL</name>
+        <address>COMISARIA 19ª DE CAPITAL FEDERAL,JULIAN ALVAREZ 2373 CAPITAL FEDERAL</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>COMISARIA 21ª DE CAPITAL FEDERAL,Av. SANTA FE 4000 CAPITAL FEDERAL</name>
+        <address>COMISARIA 21ª DE CAPITAL FEDERAL,Av. SANTA FE 4000 CAPITAL FEDERAL</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>COMISARIA 23ª DE CAPITAL FEDERAL,LOYOLA 1441</name>
+        <address>COMISARIA 23ª DE CAPITAL FEDERAL,LOYOLA 1441</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>COMISARIA 29ª DE CAPITAL FEDERAL,Av. DE LOS INMIGRANTES 2550 CAPITAL FEDERAL</name>
+        <address>COMISARIA 29ª DE CAPITAL FEDERAL,Av. DE LOS INMIGRANTES 2550 CAPITAL FEDERAL</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>COMISARIA 46ª DE CAPITAL FEDERAL,LAVALLE 2625 CAPITAL FEDERAL</name>
+        <address>COMISARIA 46ª DE CAPITAL FEDERAL,LAVALLE 2625 CAPITAL FEDERAL</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>COMISARIA 7ª DE CAPITAL FEDERAL,SARMIENTO 3673</name>
+        <address>COMISARIA 7ª DE CAPITAL FEDERAL,SARMIENTO 3673</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>COMISARIA 9ª DE CAPITAL FEDERAL,Zona portuaria</name>
+        <address>COMISARIA 9ª DE CAPITAL FEDERAL,Zona portuaria</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>EL CAÑO / LA CASITA,JUAN B. AMBROSETTI 699 CAPITAL FEDERAL</name>
+        <address>EL CAÑO / LA CASITA,JUAN B. AMBROSETTI 699 CAPITAL FEDERAL</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[HOSPITAL NAVAL "BUENOS AIRES",Puerto Nuevo CAPITAL FEDERAL]]></name>
+        <address><![CDATA[HOSPITAL NAVAL "BUENOS AIRES",Puerto Nuevo CAPITAL FEDERAL]]></address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[BARCO "CIUDAD DE LA PLATA",Puerto Nuevo CAPITAL FEDERAL]]></name>
+        <address><![CDATA[BARCO "CIUDAD DE LA PLATA",Puerto Nuevo CAPITAL FEDERAL]]></address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[BARCO "TREINTA Y TRES ORIENTALES",Av. CABILDO 232 CAPITAL FEDERAL]]></name>
+        <address><![CDATA[BARCO "TREINTA Y TRES ORIENTALES",Av. CABILDO 232 CAPITAL FEDERAL]]></address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>COMISARIA 33ª DE CAPITAL FEDERAL, CUBA 3145</name>
+        <address>COMISARIA 33ª DE CAPITAL FEDERAL, CUBA 3145</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>COMISARIA 35ª DE CAPITAL FEDERAL,Av. LUIS MARIA CAMPOS 726 CAPITAL FEDERAL</name>
+        <address>COMISARIA 35ª DE CAPITAL FEDERAL,Av. LUIS MARIA CAMPOS 726 CAPITAL FEDERAL</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[HOSPITAL GENERAL 601 "CIRUJANO MAYOR DR. COSME ARGERICH",Av. DEL LIBERTADOR 8151 CAPITAL FEDERAL]]></name>
+        <address><![CDATA[HOSPITAL GENERAL 601 "CIRUJANO MAYOR DR. COSME ARGERICH",Av. DEL LIBERTADOR 8151 CAPITAL FEDERAL]]></address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>ESCUELA DE MECANICA DE LA ARMADA (ESMA) UNIDAD DE COMANDO AREA IIIA,Gral. Venancio Flores 3519</name>
+        <address>ESCUELA DE MECANICA DE LA ARMADA (ESMA) UNIDAD DE COMANDO AREA IIIA,Gral. Venancio Flores 3519</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>EL JARDIN / O.T. 18, Franklin 943, C1405DEK</name>
+        <address>EL JARDIN / O.T. 18, Franklin 943, C1405DEK</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>CASA EN CALLE FRANKLIN,BACACAY 3570</name>
+        <address>CASA EN CALLE FRANKLIN,BACACAY 3570</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>O.T. 18 / EL JARDIN / LA CUEVA,JURAMENTO 4367</name>
+        <address>O.T. 18 / EL JARDIN / LA CUEVA,JURAMENTO 4367</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>COMISARIA 37ª DE CAPITAL FEDERAL,Av. OLAZABAL 5437 CAPITAL FEDERAL</name>
+        <address>COMISARIA 37ª DE CAPITAL FEDERAL,Av. OLAZABAL 5437 CAPITAL FEDERAL</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>COMISARIA 39ª DE CAPITAL FEDERAL, CHIVILCOY 453 CAPITAL FEDERAL</name>
+        <address>COMISARIA 39ª DE CAPITAL FEDERAL, CHIVILCOY 453 CAPITAL FEDERAL</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>COMISARIA 43ª DE CAPITAL FEDERAL,MANUEL PORCEL DE PERALTA 726 CAPITAL FEDERAL</name>
+        <address>COMISARIA 43ª DE CAPITAL FEDERAL,MANUEL PORCEL DE PERALTA 726 CAPITAL FEDERAL</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>COMISARIA 44ª DE CAPITAL FEDERAL,JOSE CUBAS 4154 CAPITAL FEDERAL</name>
+        <address>COMISARIA 44ª DE CAPITAL FEDERAL,JOSE CUBAS 4154 CAPITAL FEDERAL</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>COMISARIA 45ª DE CAPITAL FEDERAL,Av. GAONA 2738 CAPITAL FEDERAL</name>
+        <address>COMISARIA 45ª DE CAPITAL FEDERAL,Av. GAONA 2738 CAPITAL FEDERAL</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>COMISARIA 50ª DE CAPITAL FEDERAL ,BERMUDEZ 2651 CAPITAL FEDERAL</name>
+        <address>COMISARIA 50ª DE CAPITAL FEDERAL ,BERMUDEZ 2651 CAPITAL FEDERAL</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[UNIDAD PENAL 2 "DEVOTO", QUILMES 456 CAPITAL FEDERAL]]></name>
+        <address><![CDATA[UNIDAD PENAL 2 "DEVOTO", QUILMES 456 CAPITAL FEDERAL]]></address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>COMISARIA 34ª DE CAPITAL FEDERAL,PEDERNERA 3405 CAPITAL FEDERAL</name>
+        <address>COMISARIA 34ª DE CAPITAL FEDERAL,PEDERNERA 3405 CAPITAL FEDERAL</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>COMISARIA 36ª DE CAPITAL FEDERAL,Av. CNEL. ESTEBAN BONORINO 258 CAPITAL FEDERAL</name>
+        <address>COMISARIA 36ª DE CAPITAL FEDERAL,Av. CNEL. ESTEBAN BONORINO 258 CAPITAL FEDERAL</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>COMISARIA 38ª DE CAPITAL FEDERAL, LISANDRO DE LA TORRE 2343 CAPITAL FEDERAL</name>
+        <address>COMISARIA 38ª DE CAPITAL FEDERAL, LISANDRO DE LA TORRE 2343 CAPITAL FEDERAL</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>COMISARIA 42ª DE CAPITAL FEDERAL, VENTURA DE LA VEGA 3697 CAPITAL FEDERAL</name>
+        <address>COMISARIA 42ª DE CAPITAL FEDERAL, VENTURA DE LA VEGA 3697 CAPITAL FEDERAL</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>HOSPITAL AERONAUTICO CENTRAL,RAMON FALCON 4151 CAPITAL FEDERAL DIVISION DE AUTOMOTORES DE LA POLICIA FEDERAL</name>
+        <address>HOSPITAL AERONAUTICO CENTRAL,RAMON FALCON 4151 CAPITAL FEDERAL DIVISION DE AUTOMOTORES DE LA POLICIA FEDERAL</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>OLIMPO, PASEO COLON e/Av. SAN JUAN y COCHABAMBA CAPITAL FEDERAL</name>
+        <address>OLIMPO, PASEO COLON e/Av. SAN JUAN y COCHABAMBA CAPITAL FEDERAL</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>CLUB ATLETICO,Av. CASEROS 915 CAPITAL FEDERAL</name>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -58.3710009,-34.6218485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>COMISARIA 16ª DE CAPITAL FEDERAL,Av. SAN JUAN 1757 CAPITAL FEDERAL</name>
+        <address>COMISARIA 16ª DE CAPITAL FEDERAL,Av. SAN JUAN 1757 CAPITAL FEDERAL</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>COMISARIA 18ª DE CAPITAL FEDERAL, CATAMARCA 1350 CAPITAL FEDERAL</name>
+        <address>COMISARIA 18ª DE CAPITAL FEDERAL, CATAMARCA 1350 CAPITAL FEDERAL</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>COMISARIA 20ª DE CAPITAL FEDERAL,PINZON 456 CAPITAL FEDERAL</name>
+        <address>COMISARIA 20ª DE CAPITAL FEDERAL,PINZON 456 CAPITAL FEDERAL</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>COMISARIA 24ª DE CAPITAL FEDERAL,Av. MONTES DE OCA 861 CAPITAL FEDERAL</name>
+        <address>COMISARIA 24ª DE CAPITAL FEDERAL,Av. MONTES DE OCA 861 CAPITAL FEDERAL</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>COMISARIA 26ª DE CAPITAL FEDERAL,Av. VELEZ SARSFIELD 170 CAPITAL FEDERAL</name>
+        <address>COMISARIA 26ª DE CAPITAL FEDERAL,Av. VELEZ SARSFIELD 170 CAPITAL FEDERAL</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>COMISARIA 28ª DE CAPITAL FEDERAL, GRAL. HORNOS 768 CAPITAL FEDERAL</name>
+        <address>COMISARIA 28ª DE CAPITAL FEDERAL, GRAL. HORNOS 768 CAPITAL FEDERAL</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>COMISARIA 30ª DE CAPITAL FEDERAL,BENITO CORREA 1500</name>
+        <address>COMISARIA 30ª DE CAPITAL FEDERAL,BENITO CORREA 1500</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Isla Demarchi CAPITAL FEDERAL TALLERES GRALES. DE REPARACION DE AUTOMOTORES (TA.GE.R.AU.) DE LA P.N.A., Dársena Sur y Av ESPAÑA</name>
+        <address>Isla Demarchi CAPITAL FEDERAL TALLERES GRALES. DE REPARACION DE AUTOMOTORES (TA.GE.R.AU.) DE LA P.N.A., Dársena Sur y Av ESPAÑA</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>TALLERES DE PREFECTURA NAVAL ARGENTINA, Av. CASEROS e/PICHINCHA y PASCO CAPITAL FEDERAL</name>
+        <address>TALLERES DE PREFECTURA NAVAL ARGENTINA, Av. CASEROS e/PICHINCHA y PASCO CAPITAL FEDERAL</address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[UNIDAD PENAL 1 "CASEROS", DR. RAMON CARRILLO 300 CAPITAL FEDERAL]]></name>
+        <address><![CDATA[UNIDAD PENAL 1 "CASEROS", DR. RAMON CARRILLO 300 CAPITAL FEDERAL]]></address>
+        <styleUrl>#icon-1588-097138-nodesc</styleUrl>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
